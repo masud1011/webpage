@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<!--Converted with LaTeX2HTML 99.2beta8 (1.42)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Entanglement in quantum many-body states</TITLE>
+<META NAME="description" CONTENT="Entanglement in quantum many-body states">
+<META NAME="keywords" CONTENT="Detailed-Research-Description_dec05">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v99.2beta8">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="Detailed-Research-Description_dec05.css">
+
+<LINK REL="next" HREF="node9.html">
+<LINK REL="previous" HREF="node7.html">
+<LINK REL="up" HREF="Detailed-Research-Description_dec05.html">
+<LINK REL="next" HREF="node9.html">
+</HEAD>
+
+<BODY >
+<!--Navigation Panel-->
+<A NAME="tex2html110"
+  HREF="node9.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="http://www.phys.uu.nl/latex2html/icons/next.gif"></A> 
+<A NAME="tex2html108"
+  HREF="Detailed-Research-Description_dec05.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="http://www.phys.uu.nl/latex2html/icons/up.gif"></A> 
+<A NAME="tex2html102"
+  HREF="node7.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="http://www.phys.uu.nl/latex2html/icons/prev.gif"></A>   
+<BR>
+<B> Next:</B> <A NAME="tex2html111"
+  HREF="node9.html">Electron-hole and exciton systems</A>
+<B> Up:</B> <A NAME="tex2html109"
+  HREF="Detailed-Research-Description_dec05.html">Detailed-Research-Description_dec05</A>
+<B> Previous:</B> <A NAME="tex2html103"
+  HREF="node7.html">Pomeranchuk Instability</A>
+<BR>
+<BR>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00040000000000000000">
+Entanglement in quantum many-body states</A>
+</H1>
+
+With Professor K. Schoutens of Amsterdam, I have started on a project
+to calculate and interpret entanglement entropies for fractional
+quantum Hall states.  We do not have results yet, but we have spent
+some time settling conceptual issues and defining explicit questions.
+I describe below the background and motivation, and some specific
+quantities we intend to compute in first instance.
+
+<P>
+The concept of entanglement, primarily studied in the context of
+quantum computation, has been applied recently for the
+characterization of quantum many-body states.  In particular, the
+<I>entropy of entanglement</I> <!-- MATH
+ $E_{\Psi}(A)$
+ -->
+<IMG
+ WIDTH="51" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.gif"
+ ALT="$ E_{\Psi}(A)$"> for a many-body state
+<IMG
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img20.gif"
+ ALT="$ \Psi$"> provides information complementary to that obtained from
+traditional measures of correlation, namely the <IMG
+ WIDTH="14" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img21.gif"
+ ALT="$ n$">-particle
+correlation functions.  To define bipartite entanglement, the system
+is partitioned into subsystems (<IMG
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img22.gif"
+ ALT="$ A$"> and <IMG
+ WIDTH="17" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img23.gif"
+ ALT="$ B$">).  Then <!-- MATH
+ $E_{\Psi}(A)$
+ -->
+<IMG
+ WIDTH="51" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.gif"
+ ALT="$ E_{\Psi}(A)$"> is
+the von Neumann entropy of the reduced density matrix <!-- MATH
+ $\rho_A =
+\tr_{B}\left|{\Psi}\right.\rangle \langle\left.{\Psi}\right|$
+ -->
+<IMG
+ WIDTH="120" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img24.gif"
+ ALT="$ \rho_A =
+\tr_{B}\left\vert{\Psi}\right.\rangle \langle\left.{\Psi}\right\vert$">; thus <!-- MATH
+ $E_{\Psi}(A) = -\tr(\rho_A
+\log_2\rho_A )$
+ -->
+<IMG
+ WIDTH="182" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img25.gif"
+ ALT="$ E_{\Psi}(A) = -\tr(\rho_A
+\log_2\rho_A )$">.  The scaling of <!-- MATH
+ $E_{\Psi}(A)$
+ -->
+<IMG
+ WIDTH="51" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.gif"
+ ALT="$ E_{\Psi}(A)$"> with the size of the
+partition <IMG
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img22.gif"
+ ALT="$ A$"> is becoming a popular method of characterizing the
+quantum state <IMG
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img20.gif"
+ ALT="$ \Psi$">.
+A lot is already known about the entanglement entropy of
+one-dimensional systems, although open questions remain.  For higher
+dimensional systems, entanglement entropy is far less studied.
+
+<P>
+For spin systems, partitioning the spins is equivalent to partitioning
+the sites.  On the other hand, for models with itinerant particles
+(e.g., a Hubbard or <IMG
+ WIDTH="10" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img26.gif"
+ ALT="$ t$">-<IMG
+ WIDTH="14" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img27.gif"
+ ALT="$ J$"> model), one can ask whether one should
+partition the particles into two groups, or partition the sites into
+two segments of the lattice, in order to get a physical measure of
+entanglement.  Similarly, for quantum Hall states, one could partition
+either the particles or the angular-momentum orbitals.  We have come
+to understand that this issue has not been addressed properly; both
+kinds of partitioning have been used without proper justification.  We
+plan to calculate <!-- MATH
+ $E_{\Psi}(A)$
+ -->
+<IMG
+ WIDTH="51" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.gif"
+ ALT="$ E_{\Psi}(A)$"> with the partitioning <IMG
+ WIDTH="52" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img28.gif"
+ ALT="$ \{A,B\}$">
+defined in both ways (particle and orbital partitioning).  One
+interesting question is whether in some limit (e.g., for large <IMG
+ WIDTH="16" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img22.gif"
+ ALT="$ A$">),
+the two methods of partitioning lead to the same scaling of
+<!-- MATH
+ $E_{\Psi}(A)$
+ -->
+<IMG
+ WIDTH="51" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img19.gif"
+ ALT="$ E_{\Psi}(A)$"> with the partition size.
+
+<P>
+For particle partitioning, we have identified the entanglement entropy
+of certain Affleck-Kennedy-Lieb-Tasaki (AKLT) states [<A
+ HREF="node21.html#AKLT_PRL87">4</A>]
+as a route to calculating the entanglement entropy of quantum Hall
+states.  The AKLT states are ground states of high-spin models.  Their
+structure involves singlets between neighboring sites.  The
+entanglement entropy of AKLT states in one dimension has already been
+considered by several authors
+[<A
+ HREF="node21.html#FanKorepinRoychowdhury_PRL04">5</A>,<A
+ HREF="node21.html#VerstraeteCirac_PRL04">6</A>].  For our
+purposes, the relevant states are the <I>full-graph</I> AKLT states,
+where every spin is involved in a singlet with every other spin.  The
+AKLT wavefunction may be then written as a Jastrow wavefunction
+[<A
+ HREF="node21.html#ArovasAuerbachHaldane_PRL88">7</A>], similar to the Laughlin
+wavefunctions.  We expect the entanglement of the full-graph AKLT
+state with <IMG
+ WIDTH="19" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img29.gif"
+ ALT="$ N$"> particles to be simply related to that of the
+<IMG
+ WIDTH="19" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img29.gif"
+ ALT="$ N$">-particle fractional quantum Hall state on a sphere.
+
+<P>
+Our first calculations will include: (1) The entanglement entropies in
+3-spin, 4-spin, ..., <IMG
+ WIDTH="19" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img29.gif"
+ ALT="$ N$">-spin full-graph AKLT states. (2) The
+relationship between entanglement (with particles partitioned) in
+full-graph AKLT states for <IMG
+ WIDTH="19" HEIGHT="14" ALIGN="BOTTOM" BORDER="0"
+ SRC="img29.gif"
+ ALT="$ N$"> spins, with spin <IMG
+ WIDTH="67" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="img30.gif"
+ ALT="$ \nu(N-1)$"> at each
+site, and the entanglement in the Laughlin state with index <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img31.gif"
+ ALT="$ \nu$">.
+(3) The entanglement entropy with orbitals partitioned.
+There are several variables to vary in each of these calculations: the
+total number of particles/spins/orbitals, the size of the smaller
+partition, and the Laughlin index <IMG
+ WIDTH="13" HEIGHT="13" ALIGN="BOTTOM" BORDER="0"
+ SRC="img31.gif"
+ ALT="$ \nu$">.  
+
+<P>
+We have several motivations for this calculation. First, it would be
+one of the first entanglement studies for many-body systems in
+dimension larger than one.  Quantum Hall states are relatively
+well-understood among correlated quantum states in two dimensions, and
+so may be expected to be a promising 2D quantum state to start with.
+An additional motivation comes from rapidly rotating trapped Bose
+gases, a system both K.S. and I are interested in.  It is often said
+that the melting of a vortex lattice to give a sequence of quantum
+Hall states, is a transition to more ``correlated'' or ``entangled''
+states; however this statement remains qualitative.  We expect that
+entanglement entropy will give us a measure for distinguishing the
+many-body entanglement inherent in Bose condensates from that in
+quantum Hall states. 
+
+<P>
+<HR>
+<!--Navigation Panel-->
+<A NAME="tex2html110"
+  HREF="node9.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next"
+ SRC="http://www.phys.uu.nl/latex2html/icons/next.gif"></A> 
+<A NAME="tex2html108"
+  HREF="Detailed-Research-Description_dec05.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up"
+ SRC="http://www.phys.uu.nl/latex2html/icons/up.gif"></A> 
+<A NAME="tex2html102"
+  HREF="node7.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous"
+ SRC="http://www.phys.uu.nl/latex2html/icons/prev.gif"></A>   
+<BR>
+<B> Next:</B> <A NAME="tex2html111"
+  HREF="node9.html">Electron-hole and exciton systems</A>
+<B> Up:</B> <A NAME="tex2html109"
+  HREF="Detailed-Research-Description_dec05.html">Detailed-Research-Description_dec05</A>
+<B> Previous:</B> <A NAME="tex2html103"
+  HREF="node7.html">Pomeranchuk Instability</A>
+<!--End of Navigation Panel-->
+<ADDRESS>
+M. Haque
+2006-01-29
+</ADDRESS>
+</BODY>
+</HTML>

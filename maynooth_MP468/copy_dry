@@ -1,0 +1,7 @@
+#!/usr/bin/tcsh
+
+rsync -avn -e ssh haque@hoyle.thphys.nuim.ie:/www/Notes/MP468/ . --include='*.pdf' --exclude='*'
+
+rsync -avn -e ssh haque@hoyle.thphys.nuim.ie:/www/Notes/MP468/index.html .
+
+rsync -avn -e ssh haque@hoyle.thphys.nuim.ie:/www/Notes/MP468/ . --include='2021s1**' --exclude='*' --delete

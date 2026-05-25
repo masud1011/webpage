@@ -1,0 +1,4 @@
+#!/usr/bin/tcsh
+
+rsync -av -e ssh haque@hoyle.thphys.nuim.ie:/www/Notes/MP204/ . 
+

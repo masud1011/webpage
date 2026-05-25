@@ -1,0 +1,463 @@
+This is e-TeX, Version 3.14159-1.1 (Web2c 7.0) (format=latex 97.10.20)  29 JAN 2006 17:50
+entering compatibility mode
+**./images.tex
+(./images.tex
+LaTeX2e <1997/06/01>
+Babel <v3.6h> and hyphenation patterns for american, dutch, loaded.
+
+(/local2/teTeX/texmf/tex/latex/base/article.cls
+Document Class: article 1997/06/16 v1.3v Standard LaTeX document class
+(/local2/teTeX/texmf/tex/latex/base/size10.clo
+File: size10.clo 1997/06/16 v1.3v Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/local2/teTeX/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 1996/08/02 v1.0m Standard LaTeX ifthen package (DPC)
+) (/local2/teTeX/texmf/tex/latex/amslatex/amsmath.sty
+Package: amsmath 1997/03/20 v1.2d AMS math features
+\@mathmargin=\skip43
+(/local2/teTeX/texmf/tex/latex/amslatex/amstext.sty
+Package: amstext 1996/10/28 v1.2b
+(/local2/teTeX/texmf/tex/latex/amslatex/amsgen.sty
+File: amsgen 1996/10/29 v1.2b
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) (/local2/teTeX/texmf/tex/latex/amslatex/amsbsy.sty
+Package: amsbsy 1996/10/28 v1.2b
+\pmbraise@=\dimen104
+) (/local2/teTeX/texmf/tex/latex/amslatex/amsopn.sty
+Package: amsopn 1996/10/28 v1.2b operator names
+)
+LaTeX Info: Redefining \frac on input line 188.
+\uproot@=\count87
+\leftroot@=\count88
+\classnum@=\count89
+\DOTSCASE@=\count90
+LaTeX Info: Redefining \dots on input line 335.
+LaTeX Info: Redefining \ldots on input line 418.
+LaTeX Info: Redefining \cdots on input line 422.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 500.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 501.
+\skewcharcount@=\count91
+\familycount@=\count92
+\pointcount@=\count93
+\accentdimen@=\dimen106
+\accentmu@=\count94
+\minaw@=\dimen107
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+) (/local2/teTeX/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 1996/11/03 v2.2b
+(/local2/teTeX/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 1997/09/17 v2.2e
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 133.
+)) (/local2/teTeX/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1997/06/09 v1.0d Enhanced LaTeX Graphics (DPC,SPQR)
+(/local2/teTeX/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1995/09/21 v1.09 key=value parser (DPC)
+) (/local2/teTeX/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 1997/06/07 v1.0d Standard LaTeX Graphics (DPC,SPQR)
+(/local2/teTeX/texmf/tex/latex/graphics/trig.sty
+Package: trig 1994/10/16 v1.08 sin cos tan (DPC)
+) (/local2/teTeX/texmf/tex/latex/config/graphics.cfg)
+Package graphics Info: Driver file: dvips.def on input line 84.
+(/local2/teTeX/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1996/12/12 v3.0d Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+) (/local2/teTeX/texmf/tex/latex/graphics/color.sty
+Package: color 1997/06/07 v1.0e Standard LaTeX Color (DPC)
+(/local2/teTeX/texmf/tex/latex/config/color.cfg)
+Package color Info: Driver file: dvips.def on input line 129.
+(/local2/teTeX/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1996/12/12 v3.0d Driver-dependant file (DPC,SPQR)
+)) (/local2/teTeX/texmf/tex/latex/base/inputenc.sty beta test version
+Package: inputenc 1997/05/10 v0.9z Input encoding file (test version: still lia
+ble to change)
+(/local2/teTeX/texmf/tex/latex/base/latin1.def
+File: latin1.def 1997/05/10 v0.9z Input encoding file (test version: still liab
+le to change)
+))
+\sizebox=\box28
+\lthtmlwrite=\write3
+(images.aux)
+\openout1 = `images.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+
+latex2htmlLength hsize=349.0pt
+
+latex2htmlLength vsize=633.0pt
+
+latex2htmlLength hoffset=0.0pt
+
+latex2htmlLength voffset=0.0pt
+
+latex2htmlLength topmargin=0.0pt
+
+latex2htmlLength topskip=0.00003pt
+
+latex2htmlLength headheight=0.0pt
+
+latex2htmlLength headsep=0.0pt
+
+latex2htmlLength parskip=4.26773pt
+
+latex2htmlLength oddsidemargin=62.0pt
+
+latex2htmlLength evensidemargin=62.0pt
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 218.
+(/local2/teTeX/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 1995/01/05 v2.2e AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 218.
+(/local2/teTeX/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 1995/01/05 v2.2e AMS font definitions
+)
+l2hSize :tex2html_wrap_inline1296:6.94444pt::0.0pt::22.01384pt.
+[1
+
+
+
+]
+l2hSize :tex2html_wrap_inline1298:7.33331pt::7.33331pt::11.41672pt.
+[2
+
+
+]
+File: fig_phase-separation_01.eps Graphic file (type eps)
+<fig_phase-separation_01.eps>
+l2hSize :tex2html_wrap740:77.97804pt::0.0pt::349.0pt.
+[3
+
+
+]
+File: feshbach-sweep_evol_2types_3each_02.eps Graphic file (type eps)
+<feshbach-sweep_evol_2types_3each_02.eps>
+l2hSize :tex2html_wrap_inline1309:62.55096pt::62.55096pt::161.04237pt.
+[4
+
+
+]
+File: feshbach-sweep_spectra_01.eps Graphic file (type eps)
+<feshbach-sweep_spectra_01.eps>
+l2hSize :tex2html_wrap_inline1310:54.93483pt::54.93483pt::161.04237pt.
+[5
+
+
+]
+l2hSize :tex2html_wrap_inline1317:9.58334pt::0.0pt::4.79169pt.
+[6
+
+
+]
+l2hSize :tex2html_wrap_inline1319:10.08334pt::10.08334pt::6.47229pt.
+[7
+
+
+]
+l2hSize :multlinestar148:60.56375pt::0.0pt::349.0pt.
+[8
+
+
+]
+l2hSize :tex2html_wrap_inline1322:9.58334pt::0.0pt::24.67468pt.
+[9
+
+
+]
+l2hSize :tex2html_wrap_inline1324:9.97221pt::9.97221pt::8.40558pt.
+[10
+
+
+]
+l2hSize :tex2html_wrap_inline1326:9.97221pt::9.97221pt::57.38043pt.
+[11
+
+
+]
+l2hSize :tex2html_wrap_inline1331:8.0pt::8.0pt::47.20563pt.
+[12
+
+
+]
+l2hSize :tex2html_wrap_inline1333:6.83331pt::0.0pt::9.05698pt.
+[13
+
+
+]
+l2hSize :tex2html_wrap_inline1337:9.97221pt::9.97221pt::106.21527pt.
+[14
+
+
+]
+l2hSize :tex2html_wrap_inline1341:7.33331pt::7.33331pt::29.83606pt.
+[15
+
+
+]
+l2hSize :tex2html_wrap_inline1343:6.83331pt::0.0pt::27.39021pt.
+[16
+
+
+]
+l2hSize :tex2html_wrap_inline1347:7.33331pt::7.33331pt::19.19801pt.
+[17
+
+
+]
+File: Pomeranchuk_finite-T-phase-diag_01.eps Graphic file (type eps)
+<Pomeranchuk_finite-T-phase-diag_01.eps>
+l2hSize :tex2html_wrap790:111.66899pt::0.0pt::349.0pt.
+[18
+
+
+]
+l2hSize :tex2html_wrap_inline1362:8.0pt::8.0pt::29.7987pt.
+[19
+
+
+]
+l2hSize :tex2html_wrap_inline1364:6.83331pt::0.0pt::8.27783pt.
+[20
+
+
+]
+l2hSize :tex2html_wrap_inline1366:6.45831pt::0.0pt::6.50238pt.
+[21
+
+
+]
+l2hSize :tex2html_wrap_inline1368:6.83331pt::0.0pt::8.00005pt.
+[22
+
+
+]
+l2hSize :tex2html_wrap_inline1370:6.83331pt::0.0pt::8.58684pt.
+[23
+
+
+]
+l2hSize :tex2html_wrap_inline1374:8.0pt::8.0pt::73.16148pt.
+[24
+
+
+]
+l2hSize :tex2html_wrap_inline1376:8.0pt::8.0pt::112.26393pt.
+[25
+
+
+]
+l2hSize :tex2html_wrap_inline1384:6.45831pt::0.0pt::4.11115pt.
+[26
+
+
+]
+l2hSize :tex2html_wrap_inline1386:6.83331pt::0.0pt::7.00697pt.
+[27
+
+
+]
+l2hSize :tex2html_wrap_inline1390:8.0pt::8.0pt::30.5313pt.
+[28
+
+
+]
+l2hSize :tex2html_wrap_inline1396:6.83331pt::0.0pt::9.625pt.
+[29
+
+
+]
+l2hSize :tex2html_wrap_inline1404:8.0pt::8.0pt::40.20134pt.
+[30
+
+
+]
+l2hSize :tex2html_wrap_inline1406:6.45831pt::0.0pt::6.07642pt.
+[31
+
+
+]
+File: el-hole-separation_01.ps Graphic file (type eps)
+<el-hole-separation_01.ps>
+l2hSize :tex2html_wrap_inline1411:49.35146pt::49.35146pt::91.23811pt.
+[32
+
+
+]
+File: tauh_radius_03.eps Graphic file (type eps)
+<tauh_radius_03.eps>
+Overfull \hbox (31.40872pt too wide) in paragraph at lines 443--443
+ [][] 
+ []
+
+l2hSize :tex2html_wrap_inline1412:55.6013pt::55.6013pt::230.84131pt.
+[33
+
+
+]
+l2hSize :multlinestar201:86.27803pt::0.0pt::349.0pt.
+[34
+
+
+]
+l2hSize :tex2html_wrap_inline1419:6.94444pt::0.0pt::4.82759pt.
+[35
+
+
+]
+l2hSize :tex2html_wrap_inline1421:9.58334pt::0.0pt::5.7049pt.
+[36
+
+
+]
+l2hSize :tex2html_wrap_inline1423:8.49002pt::0.0pt::16.89032pt.
+[37
+
+
+]
+l2hSize :tex2html_wrap_inline1425:6.94444pt::0.0pt::6.33339pt.
+[38
+
+
+]
+l2hSize :tex2html_wrap_inline1427:6.95831pt::6.95831pt::12.16902pt.
+[39
+
+
+]
+l2hSize :tex2html_wrap_inline1429:14.57487pt::14.57487pt::129.9312pt.
+[40
+
+
+]
+l2hSize :tex2html_wrap_indisplay1432:14.88892pt::14.88892pt::214.54051pt.
+[41
+
+
+]
+l2hSize :tex2html_wrap_inline1434:6.45831pt::0.0pt::5.78592pt.
+[42
+
+
+]
+l2hSize :tex2html_wrap_inline1436:6.45831pt::0.0pt::9.28017pt.
+[43
+
+
+]
+l2hSize :tex2html_wrap_inline1438:6.83331pt::0.0pt::8.55559pt.
+[44
+
+
+]
+l2hSize :tex2html_wrap_inline1440:6.95831pt::6.95831pt::6.52551pt.
+[45
+
+
+]
+l2hSize :tex2html_wrap_inline1442:8.64003pt::8.64003pt::51.95859pt.
+[46
+
+
+]
+l2hSize :tex2html_wrap_inline1445:7.33331pt::7.33331pt::10.39935pt.
+[47
+
+
+]
+l2hSize :tex2html_wrap_inline1447:10.94443pt::10.94443pt::106.88373pt.
+[48
+
+
+]
+l2hSize :tex2html_wrap_inline1449:6.95831pt::6.95831pt::28.4967pt.
+[49
+
+
+]
+l2hSize :tex2html_wrap_inline1456:8.0pt::8.0pt::21.19588pt.
+[50
+
+
+]
+l2hSize :tex2html_wrap_inline1458:7.44444pt::7.44444pt::14.34724pt.
+[51
+
+
+]
+l2hSize :tex2html_wrap_inline1461:7.33331pt::7.33331pt::14.63199pt.
+[52
+
+
+]
+l2hSize :tex2html_wrap_inline1467:6.45831pt::0.0pt::8.27783pt.
+[53
+
+
+]
+l2hSize :tex2html_wrap_inline1470:6.83331pt::0.0pt::8.41806pt.
+[54
+
+
+]
+l2hSize :tex2html_wrap_inline1474:8.0pt::8.0pt::89.35666pt.
+[55
+
+
+] (images.aux) ) 
+Here is how much of TeX's memory you used:
+ 1685 strings out of 10873
+ 19167 string characters out of 72802
+ 63500 words of memory out of 700001
+ 4576 multiletter control sequences out of 10000+0
+ 6266 words of font info for 25 fonts, out of 200000 for 500
+ 14 hyphenation exceptions out of 1000
+ 27i,10n,24p,337b,295s stack positions out of 300i,100n,500p,10000b,4000s
+
+Output written on images.dvi (55 pages, 15176 bytes).

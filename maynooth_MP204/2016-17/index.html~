@@ -1,0 +1,475 @@
+
+
+<html>
+
+<HEAD>
+<TITLE>MP204: Electricity and Magnetism</TITLE>
+</HEAD>
+
+
+<body>
+
+<center>
+<h2>MP204: Electricity and Magnetism</h2>
+<h3> Spring 2017 </h3>
+<h4> (2nd semester of 2016-2017) </h4>
+</center>
+
+<p>Lecturer:  &nbsp; Masud Haque  &nbsp; (haque@thphys.nuim.ie)
+
+
+
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Exam Preparation</font> 
+
+<P><BR><P>
+
+<p>
+<font color= "green">Solutions to May Exams.</font>
+
+<P>Here are the  <A href= "MP204_sp17_finals_withsolns_a.pdf">
+    final exams of May 2017 together with solutions/hints</A>. 
+  
+
+<P><BR><P>
+
+  
+<p>
+<font color= "green">Problem Sets.</font>
+
+<P>
+
+The best preparation for the exams probably involves
+
+<UL>
+
+<p><li> solving and re-solving the problems from the problem sets,
+    including the extra problem set 12, and
+
+<p><li> learning from textbooks or lecture notes all the material
+necessary to solve such problems.
+
+</UL>
+
+<BR><P>
+
+<p>
+<font color= "green">Sample Exams.</font>
+<P>
+
+<p>Below are two sample exams for practice:
+
+  
+<P> <A href= "MP204_sp17_sample1_a.pdf"> Sample exam 1 </A> 
+  
+<P> <A href= "MP204_sp17_sample2_a.pdf"> Sample exam 2 </A> 
+
+
+
+<P><BR><P>
+
+  
+<p>
+<font color= "green">Important equations.</font>
+<P>
+
+<p>Here is a <A href= "main_equations_01.pdf"> list of main equations
+    and results</A> we covered in MP204.
+
+
+<P><BR><P>
+
+
+<p><p> <HR> <p><p>
+
+
+
+<font color= "brown" size= +1>Problem sets </font> 
+
+
+
+
+
+
+<p> <A href= "MP204_sp17_pset12a.pdf"> Problem set 12.</A>
+<br> This is a problem bank for practice, not due for submission.
+
+
+<p> <A href= "MP204_sp17_pset11b.pdf"> Problem set 11.</A>  
+<br> Due on Tuesday, May 2nd. 
+
+
+<p> <A href= "MP204_sp17_pset10a.pdf"> Problem set 10.</A>  
+<br> Due on Tuesday, April 25th. 
+
+
+<p> <A href= "MP204_sp17_pset09a.pdf"> Problem set 09.</A>  
+<br> Was due on Tuesday, April 11th. 
+<br> Since one of the tutorials did not take place, 
+<A href="MP204_sp17_pset09_solns_a.pdf">some solutions/hints for Problem set
+09</A> are provided.
+
+
+
+<p> <A href= "MP204_sp17_pset08a.pdf"> Problem set 08.</A>  
+<br> Was due on Tuesday, April 4th. 
+
+
+<p> <A href= "MP204_sp17_pset07a.pdf"> Problem set 07.</A>  
+<br> Was due on Tuesday, March 28th. 
+
+
+<p> <A href= "MP204_sp17_pset06a.pdf"> Problem set 06.</A>  
+<br> Was due on Tuesday, March 21st. 
+
+
+<p> <A href= "MP204_sp17_pset05b.pdf"> Problem set 05.</A>  
+<br> Was due on Tuesday, March 7th. 
+
+
+<p> <A href= "MP204_sp17_pset04b.pdf"> Problem set 04.</A>  
+<br> Was due on Tuesday, February 28th. 
+
+
+<p> <A href= "MP204_sp17_pset03b.pdf"> Problem set 03.</A>  
+<br> Was due on Tuesday, February 21st. 
+  
+
+<p> <A href= "MP204_spring17_probset02a.pdf"> Problem set 02.</A>  
+<br> Was due on Tuesday, February 14th. 
+  
+
+<p> <A href= "MP204_spring17_probset01_a.pdf"> Problem set 01.</A>  
+<br> Was due on Tuesday, February 7th. 
+  
+
+
+  
+<p><br>
+
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Material covered in Class</font> 
+
+<p>I point to relevant chapters in 
+<A href= "MP204_CharlesNash_Notes.pdf">Prof. Nash's Notes</A> and in
+Vol. II of <A href= "http://www.feynmanlectures.info/">the Feynman
+lectures</A> (referred to as Feynman II below).
+<br>
+Of course, equivalent material is available in many other textbooks,
+or in online material such as those linked to further down on this page. 
+
+
+
+<p>
+<font color= "green">Electromagnetic field energy.</font>
+<br>Chapter 27 in Feynman II.
+&nbsp;
+Nash notes: chapter VI.
+
+
+
+
+<p>
+<font color= "green">Maxwell's equations, displacement current
+  density, wave solutions.</font>
+<br>Chapters 18 and 20 in Feynman II.
+&nbsp;
+Nash notes: chapters V and VI.
+
+
+
+<p>
+<font color= "green">Electromagnetic Induction; Faraday's law.</font>
+<br>Chapters 16 and 17 in Feynman II.
+&nbsp;
+Nash notes: chapter V.
+
+
+
+<p>
+<font color= "green">Vector Potential.</font>
+<br>Chapter 15 in Feynman II.
+
+&nbsp; Unfortunately, Nash notes do not discuss the vector potential.
+
+
+
+<p>
+<font color= "green">Magnetic field.</font>
+<br>Chapters 13 and 14 in Feynman II.
+&nbsp;
+Nash notes: chapter IV. 
+
+
+
+<p>
+<font color= "green">Electric Currents.</font>
+<br>Chapter 13 in Feynman II.
+&nbsp;
+Nash notes: chapter III. 
+
+
+<p>
+<font color= "green">Applications of Gauss' law.</font>
+<br>
+In Feynman II, Chapter 5 is highly recommended reading. 
+&nbsp;
+In Nash notes, this is chapter II. 
+
+
+<p>
+<font color= "green">Electric flux. Gauss' dielectric flux theorem
+  (a.k.a. Gauss' law).</font>
+
+<br>
+In Feynman II, the discussion of flux begins in Chapter 4 Section 5,
+and continues through Chapter 5.  &nbsp; Nash-notes covers this
+material in Chapter 2.
+
+
+
+<p>
+<font color= "green">Coulomb's Law, Electric Fields,
+  Electric Potentials.</font>
+<br>
+Nash notes: chapter 1.  
+
+<br>
+In Feynman II, you will find similar material
+in the first 4 sections of Chapter 4.
+
+<br>
+The introduction to the electric potential
+in Nash-notes Chapter 1 Section 3 is more detailed than we had time
+for in class; you might want to read this carefully.
+
+
+
+<p>
+<font color= "green">Overview and Background.</font>
+
+<br>
+In Feynman II, Chapter 1 gives an overview of what we will learn this
+semester.
+
+<br>Chapters 2 and 3 introduces grad-div-curl and vector integration.
+This is essential background for MP204; it is assumed that you have
+previously mastered most of this material.  Working through these
+chapters will probably help you greatly in MP204.
+
+
+
+<p><p> <HR> <p><p>
+
+
+<font color= "brown" size= +1>Continuous Assessment and the purpose of
+  problem sets </font> 
+
+
+<p>A problem set was asigned every week.  They are posted above on
+this webpage.  The material covered was practiced through these
+problem sets.  Working through such problems is the best way to learn
+the material.
+
+<p>Assignment marks (`continuous assessment') will be counted toward
+  the final module mark only if they are to the students' advantage.
+<br>
+(The policy is module-dependent and varies within the Mathematical
+  Physics department.  In some modules, continuous assessment is
+  `compulsory'.)
+
+<!--
+
+<p>The primary purpose of the problem sets is really that they should
+  help you learn the material at an optimal rate.  It will be assumed
+  that you are attempting every problem set.  If you are comfortable
+  doing all the problems during the week and then want to tackle
+  additional problems, please let me know with a brief email and I
+  will try to send you some further optional problems to work on.
+
+  -->
+
+
+
+
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Material, sources </font> 
+
+
+<p><br>
+<p><font color= "green">Lecture notes from a previous year</font> 
+
+
+<P> <A href= "MP204_CharlesNash_Notes.pdf"> MP204 lecture notes of
+    Prof. Charles Nash </A>  
+
+
+--- this is roughly the material to be covered in the module, with
+  some differences.  It is
+  recommended that you work through these notes, and in addition spend
+  significant time working through at least one textbook.
+  
+
+
+<p><br>
+<p><font color= "green">Textbooks</font> 
+  
+
+
+<p>There are many, many textbooks on introductory electromagnetism or
+  electrodynamics.  You are strongly encouraged to work through one or
+  more textbooks.  
+
+<p>In particular, I will point to chapters/sections in the <em>Feynman
+    lectures</em> (Volume II), which are free to read on
+
+<br> <A href= "http://www.feynmanlectures.info/"> this website</A>.
+  
+<br>The material we will cover in MP204 is mostly contained within the
+first 20 chapters of Volume II.  (Specifically: Chapters 1, 4--6,
+  13--18, 20.)
+
+<p>I point to Feynman Vol. II because it is freely available to read.
+However, the material is very standard and has not changed much in the
+past 50 years.  You will find the same topics covered in many
+other texts.
+
+ 
+  
+<p>Some other texts are listed below.  Our library carries a number of
+these in paper copy and a few more as e-books.
+  
+  
+<UL>
+
+<p><li>Chabay & Sherwood,  <I>Matter & Interactions, Vol. II</I>.
+    
+
+<p><li>Griffiths,  <I>Introduction to Electrodynamics</I>.
+
+
+<p><li>Purcell and Morin,  <I>Electricity and Magnetism</I>.
+
+
+<p><li>Panofsky & Phillips,  <I>Classical Electricity and Magnetism</I>.
+
+
+<p><li>Grant & Phillips,  <I>Electromagnetism</I>.
+
+
+<p><li>Fleisch,  <I>A Student's Guide to Maxwell's Equations</I>.
+
+
+<p><li>Edminister & Nahvi,  <I>Schaum's Outline of Electromagnetics</I>.
+
+    
+<p><li>Shankar, <I>Fundamentals of Physics II: Electromagnetism,
+    Optics, and Quantum Mechanics</I>.
+
+
+    
+</UL>
+
+
+
+
+<p><br>
+<p><font color= "green">Online Material</font> 
+  
+
+<p>
+Finally, below are some links to lecture notes that are available
+online, roughly at the level of this module.  Please let me know with
+a brief email if any of the links are broken.
+
+  
+<UL>
+
+<p><li>
+  <A href="http://users.ox.ac.uk/~math0391/EMlectures.pdf">Lecture notes by J. Sparks</A>.
+
+<p><li>
+  <A href="http://www.damtp.cam.ac.uk/user/tong/em.html">Lecture notes by D. Tong</A>.
+
+<p><li>
+    <A href="https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2006/lecture-notes/">
+      Lecture  notes from M.I.T.</A>.
+
+<p><li>
+    <A href="http://www.kau.edu.sa/GetFile.aspx?id=158642&fn=EMNotes.pdf">
+      Lecture  notes by J. Pun</A>.
+
+<p><li>
+    <A href="http://teacher.nsrl.rochester.edu/phy122/Lecture_Notes/Index.html">
+      Lecture  notes from Univ. Rochester</A>.
+
+<p><li>Notes by V. Shneidman: 
+    <A href="https://web.njit.edu/~vitaly/121/notes121.pdf">part 1</A>
+    and <A href="https://web.njit.edu/~vitaly/121/Notes2.pdf">part 2</A>.
+
+    
+
+</UL>    
+
+
+
+
+
+<p><p> <HR> <p><p>
+
+
+
+<font color= "brown" size= +1>Notation </font> 
+
+<p>We will use SI (also called MKS or MKSA) units.  Note that many
+  equations look quite different when written in Gaussian (or CGS)
+  units.  When reading a textbook, be sure to watch out for which
+  units that text is using. 
+
+<p>Notations vary.  I will mostly try using the same notations as in
+  Prof. Nash's notes, but will not always succeed.  You anyway need to
+  be able to read and learn from multiple sources using different
+  notations for the same physical quantities. 
+
+
+
+
+<p><p> <HR> <p><p>
+
+<!--
+
+<font color= "brown" size= +1>Recipe for Success</font> 
+
+<p>
+  1) Take notes during lectures.
+
+<p>
+
+2) After each lecture but before the next lecture review your notes. Identify
+the parts you do not understand.
+
+<p>
+
+3) Keep up with the reading so that you have some familiarity with
+each topic prior to hearing about it in the lecture.
+
+<p>
+
+4) Take the assignments (problem sets) seriously. Do not try to do the
+whole assignment a couple hours before it is due.  Some version of the
+asignment questions will appear on the exam.
+
+
+<br>
+
+-->
+
+
+</body>
+</html>

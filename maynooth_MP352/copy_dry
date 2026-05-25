@@ -1,0 +1,5 @@
+#!/usr/bin/tcsh
+
+rsync -avn -e ssh haque@hoyle.thphys.nuim.ie:/www/Notes/MP352/ . 
+
+

@@ -1,0 +1,604 @@
+
+
+<html>
+
+<HEAD>
+<TITLE>MP204: Electricity and Magnetism</TITLE>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</HEAD>
+
+
+<body>
+
+<center>
+<h2>MP204: Electricity and Magnetism</h2>
+<h3> Spring 2021 </h3>
+<h4> (2nd semester of 2020-2021) </h4>
+</center>
+
+
+
+
+<p>Lecturer:  &nbsp; Masud Haque  &nbsp; (haque@thphys.nuim.ie)
+
+ &nbsp;   &nbsp;  Tutor: &nbsp;  Aonghus Hunter-McCabe   &nbsp;   (Aonghus.HunterMccabe@mu.ie) 
+
+
+
+<!--  
+
+-->   
+ 
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Lectures and Tutorials </font> 
+
+
+<p>Teaching is unfortunately remote this semester.  &nbsp; Both
+  lectures and tutorials are through Microsoft Teams. </p>
+
+<p>The lectures are scheduled on Tuesdays and Fridays
+(both days 11:05).  Please join the meeting on the MP204 Teams page during
+  these times.  </p>
+  
+<p>  Tutorial times:  Thursday 5:05pm, Friday 1:05pm. 
+
+&nbsp;  During tutorials Aonghus discusses solutions to some of the
+  assignment problems.
+</p>
+
+
+<!--  
+
+<p>If you have reasonable questions concerning the problem sets, one
+  of our postgraduate students might be willing to discuss or help.
+
+-->   
+
+
+
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+
+<font color= "brown" size= +1>Problem sets </font> 
+
+<!--  
+
+--> 
+
+
+<p> <A href= "MP204_2021s2_ps11a.pdf"> Problem set 11.</A>
+&nbsp; Was due Monday May 3rd.
+
+<br> <A href= "MP204_2021s2_ps11_solns_a.pdf"> (Partial) solutions to problem set 11.</A>
+</p>
+
+
+<p> <A href= "MP204_2021s2_ps10a.pdf"> Problem set 10.</A>
+&nbsp; Due Monday April 26th.
+
+<br> <A href= "MP204_2021s2_ps10_solns_a.pdf"> (Partial) solutions to problem set 10.</A>
+</p>
+
+<p> <A href= "MP204_2021s2_ps09a.pdf"> Problem set 09.</A>
+&nbsp; Was due Monday April 19th.
+
+<br> <A href= "MP204_2021s2_ps09_solns_a.pdf"> (Partial) solutions to problem set 09.</A>
+</p>
+
+  
+<p> <A href= "MP204_2021s2_ps08a.pdf"> Problem set 08.</A>
+&nbsp; Was due  Monday April 12th.
+
+<br> <A href= "MP204_2021s2_ps08_solns_a.pdf"> (Partial) solutions to problem set 08.</A>
+</p>
+
+<p> <A href= "MP204_2021s2_ps07a.pdf"> Problem set 07.</A>
+&nbsp; Was due tuesday March 29th.
+
+<br> <A href= "MP204_2021s2_ps07_solns_a.pdf"> (Partial) solutions to problem set 07.</A>
+</p>
+
+
+<p> <A href= "MP204_2021s2_ps06a.pdf"> Problem set 06.</A>
+&nbsp; Was due Monday March 22nd.  
+<br>
+For the Study Break; twice as long as the usual weekly problems.  
+
+<br> <A href= "MP204_2021s2_ps06_solns_a.pdf"> (Partial) solutions to
+  problem set 06.</A>
+</p>
+
+<p> <A href= "MP204_2021s2_ps05a.pdf"> Problem set 05.</A>
+&nbsp; Was due Monday March 8th. 
+</p>
+
+<p> <A href= "MP204_2021s2_ps04a.pdf"> Problem set 04.</A>
+&nbsp; Was due Monday March 1st.
+</p>
+
+<p> <A href= "MP204_2021s2_ps03a.pdf"> Problem set 03.</A>
+&nbsp; Was due Monday February 22nd.
+</p>
+
+<p> <A href= "MP204_2021s2_ps02a.pdf"> Problem set 02.</A>
+&nbsp; Was due Monday February 15th.
+</p>
+  
+<p> <A href= "MP204_2021s2_ps01a.pdf"> Problem set 01.</A>
+&nbsp; Was due Monday February 8th.
+
+<br>Problems 3 and 4 in this problem set involve finding the total
+charge of objects from the linear charge density or from the surface
+charge density.  This will require breaking up the object into
+infinitesimal pieces and then adding up the contributions of each
+piece, which amounts to an integration. We will have to do variants of
+this procedure many times during this module; so please practice until
+you are fully comfortable. 
+
+<br>The relationship between charge density and total charge is the
+same as that between the usual (mass) density and total mass.  For
+guidance, you could try
+
+<br><A href="http://www.youtube.com/watch?v=2AWOanThXSE">this
+video</A>, 
+
+&nbsp; <A href="http://www.youtube.com/watch?v=LVWNcDX9VEA">this
+video</A>, 
+
+&nbsp; <A href=
+"https://math.stackexchange.com/questions/1548329/finding-mass-of-a-sphere-given-density-1-rho2-and-radius-1">
+this discussion</A>,
+
+&nbsp; <A href=
+"http://www.ittc.ku.edu/~jstiles/220/handouts/section%203_2%20charge%20density%20package.pdf">
+these notes</A>.
+</p>
+ 
+  
+
+<p><br>
+
+
+
+
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Important equations of electromagnetism</font> 
+
+
+
+<p> Here is a <A href= "main_equations_01.pdf"> list of the main
+    equations and results</A>  we  encounter in MP204.   
+
+
+
+  
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Practice Problems</font> 
+
+<p>
+
+<UL>
+
+<p><li> <A href= "MP204_problembank_ps12a.pdf"> Problem bank (``problem set 12'')</A>  
+<br> This is marked as `Problem set 12', but it is really a large
+collection of problems covering all the module material.
+<br>
+Should be useful for practice and for learning the material more
+thoroughly.
+  
+</li>
+
+<p><li>Many of the textbooks have collections of problems and
+    worked-out exercises.
+
+<br> In particular, the textbook by Griffiths and that by Purcell &
+    Morin both have large numbers of excellent exercises and problems.
+
+
+</li>
+
+</UL>
+
+        
+  
+
+<p><p> <HR> <p><p>
+
+
+<font color= "brown" size= +1>Scanned lecture notes</font> 
+  
+<p> <A href= "lecturenotes/MP204_lecturenotes_A02.pdf">Scanned lecture
+    notes, part A</A>. (Up to page 7)</p>
+  
+<p> <A href= "lecturenotes/MP204_lecturenotes_B02.pdf">Scanned lecture
+    notes, part B</A>. (Pages 8 to 16) </p>
+  
+<p> <A href= "lecturenotes/MP204_lecturenotes_C01.pdf">Scanned lecture
+    notes, part C</A>. (Pages 17 to 37)</p>
+
+<p> <A href= "lecturenotes/MP204_lecturenotes_D01.pdf">Scanned lecture
+    notes, part D</A>. (Pages 39 to 59)</p>
+
+
+<p> <A href= "lecturenotes/MP204_lecturenotes_E01.pdf">Scanned lecture
+    notes, part E</A>. (Pages 61 to 83)</p>
+
+
+
+
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Topics covered in Class</font> 
+
+<p>I point below to relevant chapters in 
+<A href= "MP204_CharlesNash_Notes.pdf">Prof. Nash's Notes</A> and
+in <A href= "https://www.feynmanlectures.caltech.edu/II_toc.html">
+Vol. II of the Feynman lectures</A> (referred to as Feynman II below).
+<br>
+Of course, equivalent material is available in many other textbooks,
+or in online material such as those linked to further down on this page. 
+
+
+<p>
+<font color= "green">Maxwell's equations, displacement current
+  density, wave solutions.</font>
+<br>Chapters 18 and 20 in Feynman II.
+&nbsp;
+Nash notes: chapters V and VI.
+
+<p>
+<font color= "green">Electromagnetic Induction; Faraday's law.</font>
+<br>Chapters 16 and 17 in Feynman II.
+&nbsp;
+Nash notes: chapter V.
+
+<p>
+<font color= "green">Vector Potential.</font>
+<br>Chapter 15 in Feynman II.
+
+&nbsp; Unfortunately, Nash notes do not discuss the vector potential.
+
+
+<p>
+<font color= "green">Magnetic field.</font>
+<br>Chapters 13 and 14 in Feynman II.
+&nbsp;
+Nash notes: chapter IV. 
+
+
+<p>
+<font color= "green">Electric Currents.</font>
+<br>Chapter 13 in Feynman II.
+&nbsp;
+Nash notes: chapter 3. 
+
+
+<p>
+<font color= "green">Applications of Gauss' law.</font>
+<br>
+In Feynman II, Chapter 5 is highly recommended reading. 
+&nbsp;
+In Nash notes, this is chapter 2. 
+
+
+<p>
+<font color= "green">Electric flux. Gauss' dielectric flux theorem
+  (a.k.a. Gauss' law).</font>
+
+<br>
+In Feynman II, the discussion of flux begins in Chapter 4 Section 5,
+and continues through Chapter 5.  &nbsp; Nash-notes covers this
+material in Chapter 2.
+
+
+<p>
+<font color= "green">Continuous charge distributions.</font>
+
+In class, we worked out how to calculate the potential and the
+electric field due to a <font color= "red">continuous</font>
+distribution of charge by first calculating the contribution due to an
+infinitesimal element and then integrating (``adding up'').  This is
+an important technique which will recur throughout this module; please
+make sure you are able to set up integrals like this yourself.
+
+<br>Some common examples are discussed in
+&nbsp; <A href="http://www.youtube.com/watch?v=HDefPQwcC6w">this
+video</A>,
+&nbsp; <A href="https://www.youtube.com/watch?v=xszkaIJAwy4">this video</A>,
+&nbsp; <A href="https://www.youtube.com/watch?v=ZYw0rdCwcY0">this video</A>,
+&nbsp; <A href="https://www.youtube.com/watch?v=yA2sdeOpRMU">this video</A>.
+
+
+<p>
+<font color= "green">Coulomb's Law, Electric Fields,
+  Electric Potentials.</font>
+
+Chapter 1 of Nash-notes.  The introduction to the electric potential
+in Nash-notes Chapter 1 Section 3 is more detailed than we had time
+for in class; you might want to read this carefully.
+
+<br>In Feynman lectures Vol. II, you will find similar material
+in the first 4 sections of Chapter 4.  
+
+
+<p>
+<font color= "green">Overview and Background.</font>
+
+In Feynman lectures Vol. II, Chapter 1 gives an overview of what we
+will learn this semester.
+
+<br>Chapters 2 and 3 introduces grad-div-curl and vector integration.
+You are supposed to know most of this material already.  Working
+through them will be a great help for MP204.
+
+
+
+
+  
+
+
+
+
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Textbooks, lecture notes, etc </font> 
+
+
+<p><br>
+<p><font color= "green">Lecture notes from a previous lecturer</font> 
+
+<P> <A href= "MP204_CharlesNash_Notes.pdf"> MP204 lecture notes of
+    Prof. Charles Nash </A>  
+
+--- this is roughly the material to be covered in the module, with
+  some additions.  It is recommended that you work through these
+  notes, and in addition spend significant time working through at
+  least one textbook.
+  
+
+<p><br>
+<p><font color= "green">Textbooks</font> 
+
+  
+<p>There are many, many textbooks on introductory electromagnetism or
+  electrodynamics.  You are strongly encouraged to read through one or
+  more textbooks.  
+
+<p>For example, you could work through the <em>Feynman
+lectures</em> (Volume II), which are free to read on <A href=
+"https://www.feynmanlectures.caltech.edu/"> this website</A>.  The material we
+will cover in MP204 is mostly contained within the first 20 chapters
+of Volume II.  (Specifically: Chapters 1, 4--6, 13--18, 20.)  This
+will be very close to what we will cover.  However, the material is
+very standard and you will find the same topics in many other texts.
+
+
+  
+<p>Other texts:
+  
+<UL>
+
+<p><li>Fleisch,  <I>A Student's Guide to Maxwell's Equations</I>.
+<br>Student-friendly, as the title suggests.
+
+<p><li>Griffiths,  <I>Introduction to Electrodynamics</I>.
+<br>Slightly more advanced than the level of this module, but
+reading through this text and working out exercises is very
+worthwhile.
+
+<p><li>Purcell & Morin,  <I>Electricity and Magnetism</I>.
+<br>Slightly more advanced than the level of this module. 
+
+
+<p><li>Edminister & Nahvi,  <I>Schaum's Outline of Electromagnetics</I>.
+<br>Many worked-out examples. 
+
+
+<p><li>Panofsky & Phillips,  <I>Classical Electricity and Magnetism</I>.
+
+
+<p><li>Grant & Phillips,  <I>Electromagnetism</I>.
+
+    
+<p><li>Shankar, <I>Fundamentals of Physics II: Electromagnetism,
+    Optics, and Quantum Mechanics</I>.
+
+
+    
+</UL>
+
+
+
+<p>
+<font color= "green"> Material available online:</font> 
+
+
+<p>Lecture notes from various places.  
+<br>Of course, I didn't check in detail for correctness and/or how
+closely these notes are aligned to the matter we cover in MP204, so
+please use at your own discretion.
+<br>
+Please let me know if any of the links don't work.
+
+<UL>
+
+<p><li>
+<A href= "http://www.damtp.cam.ac.uk/user/tong/em/em.pdf">Notes
+  from DAMTP Cambridge</A>.  
+
+<p><li>
+<A href= "https://webhome.phy.duke.edu/~rgb/Class/intro_physics_2/intro_physics_2.a4.pdf">Notes
+  from Duke University</A>.  
+
+<p><li>
+<A href= "http://www.kau.edu.sa/GetFile.aspx?id=158642&fn=EMNotes.pdf">Notes
+  from Hong Kong</A>.  
+
+<p><li>
+<A href= "http://users.ox.ac.uk/~math0391/EMlectures.pdf">Notes
+from  Oxford, 2009</A>.
+
+<p><li>
+<A href=
+   "https://www.physics.ohio-state.edu/~dws/class/132/lecture_recap.pdf">Lecture
+   Notes from Ohio State Univ</A>.
+
+
+<p><li>
+<A href="http://teacher.nsrl.rochester.edu/phy122/Lecture_Notes/Index.html">
+  Notes from Univ. Rochester</A>.
+
+
+
+</UL>
+
+
+
+
+
+
+<p><p> <HR> <p><p>
+
+
+
+<font color= "brown" size= +1>Notation </font> 
+
+<p>We  use SI (also called MKS or MKSA) units.  Note that many
+  equations look quite different when written in Gaussian (or CGS)
+  units.  When reading a textbook, be sure to watch out for which
+  units that text is using. 
+
+<p>Notations vary.  I mostly try using the same notations as in
+  Prof. Nash's notes, but do not always succeed.  You anyway need to
+  be able to read and learn from multiple sources using different
+  notations for the same physical quantities.
+
+
+
+  
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>(Solutions to) previous exams &nbsp; + &nbsp;  Sample Exams</font> 
+
+<p> Here is a sample exam for practice:
+
+&nbsp; <A href= "MP204_2019s2_sample1_a.pdf"> Sample exam 1, for 2018-2019 </A> 
+
+<p>Here is the  <A href= "MP204_2019_May.pdf"> 2019 May exam</A> and
+  here  is the  <A href= "MP204_2019_Repeat.pdf"> 2019 Repeat (August)
+  exam</A>.  (Solutions are not available; sorry.)
+  
+
+<p>Below are solutions to some past exams.  <br>(The length
+  of exams has changed since 2017.)   
+
+<p> <A href= "MP204_2018s2_repeat_withsolns_a.pdf"> 2018 Repeat exam + solutions </A> 
+
+<p> <A href= "MP204_2018s2_mainfinal_withsolns_a.pdf"> 2018 May exam + solutions </A> 
+
+  
+<P> <A href= "MP204_2017s2_examsols_Repeat.pdf"> 2017 Repeat exam + solutions </A> 
+
+<P> <A href= "MP204_2017s2_examsols_May.pdf"> 2017 May exam + solutions </A> 
+
+
+
+<p>Below are old sample exams for practice.  They are in the style of
+  previous (2017-2018) exams.  Later exams was structured slightly
+  differently (divided into 4 questions instead of 3), but the
+  material covered and the level of difficulty should be similar.
+
+
+<P> <A href= "MP204_2018s2_sample1_a.pdf"> Sample exam 1, for 2017-2018 </A> 
+
+<P> <A href= "MP204_2018s2_sample2_a.pdf"> Sample exam 2, for 2017-2018 </A> 
+  
+<P> <A href= "MP204_2018s2_sample3_a.pdf"> Sample exam 3, for 2017-2018 </A> 
+
+
+
+
+<p><br>
+
+<p><p> <HR> <p><p>
+
+<font color= "brown" size= +1>Prerequisite: Vector Calculus</font> 
+
+<p>This module requires you to be very familiar with Vector Calculus.
+  You should be comfortable with grad/div/curl, Stokes' theorem and
+  the divergence theorem, and of course vector addition and
+  components. 
+
+<p>If you need a review, you can try working through some of the
+  following. I strongly suggest making time to do this at the
+  beginning of semester.
+
+<UL>
+  
+<p><li> Some of the problem sheets (or past exams) of MP201. 
+ </li>  
+
+<p><li>
+Feynman lectures
+Vol. II:
+<A href="https://www.feynmanlectures.caltech.edu/II_02.html">Chapter 2</A>  and 
+<A href="https://www.feynmanlectures.caltech.edu/II_03.html">Chapter 3</A>.
+
+  </li>
+
+
+<p><li> 
+    <A href="https://web2.ph.utexas.edu/~phy315/VectorRev.pdf">This
+    review, especially the exercises.</A>
+    </li>
+
+<p><li>
+<A href="https://math.mit.edu/~jorloff/18.04/notes/1802Review.pdf">This
+    review.</A>
+ </li>
+
+  
+<p><li> Some practice problems from the latter sections of <A href="http://tutorial.math.lamar.edu/Problems/CalcIII/CalcIII.aspx">this
+    online review of multivariate calculus.</A>
+    </li>
+  
+</UL>
+    
+
+
+  
+<!--  
+  
+-->
+
+
+
+
+
+</body>
+</html>
