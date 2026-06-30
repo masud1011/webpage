@@ -1,0 +1,372 @@
+
+
+<html>
+
+<head>
+
+<title>Journal club on Many-Body Open Quantum Systems</title>
+
+</head>
+
+<body>
+
+<center><h2>Journal club on Many-Body Open Quantum Systems</h2></center>
+
+<p>
+ Mainly covering papers on Lindblad many-body systems, plus adjacent
+topics.  
+
+
+ <p>
+Mondays 10:30am - noon CET.  The timing is suitable for people located
+ in Europe and Asia.  (In summer, this means 2pm India, 4:30pm China.)
+
+
+ 
+
+
+<p><hr><p>
+
+<UL>
+
+<li> <A HREF="#topic05">Near-adiabatic ramps ("slow quenches") in quantum many-particle systems</A>
+
+<p><li> <A HREF="#topic04">Entanglement and topological order in quantum Hall states</A>
+
+<p><li> <A HREF="#topic03">Edge-localized states in 1D quantum lattices</A>
+
+<p><li> <A HREF="#topic02">Few-vortex dynamics in Bose condensates</A>
+
+<p><li> <A HREF="#topic01">Entanglement between unusual partitionings of many-particle systems</A>
+
+
+</UL>
+
+<p>
+
+<hr><br>
+<h3><font color=brown> <A NAME="topic05"> &sect; &nbsp; 
+Near-adiabatic ramps ("slow quenches") in quantum many-particle systems</font></h3>
+
+An <I>adiabatic</I> change of system parameters is an essential notion of quantum
+mechanics.
+ &nbsp; 
+Many experimental protocols involve adiabatically changing a
+parameter in order to reach a desired quantum state.   &nbsp; In addition, the
+idea of <I>adiabatic quantum computation</I> has recently attracted
+interest, as a path to computation via slow variation of a
+many-particle Hamiltonian.
+
+<p>
+Since a real-life ramp can never be infinitely slow, understanding
+non-adiabatic dynamics during ramps is vital.
+
+We are therefore studying the evolution of many-particle systems
+during and after a sudden change (<I>quench</I>) or gradual change
+(<I>ramp</I>) of parameter, <I>e.g.</I>, changes of interaction
+strength or magnetic field, or (for cold-atom systems) trapping
+potential.  Varying the rate of change, one can study the whole range
+between
+<I>instantaneous</I> and <I>adiabatic</I> limits.
+
+
+<p>
+A grand challenge is to understand <I>deviations</I> from adiabaticity
+in slow but finite ramps.  I have explored this issue in a series of
+calculations, aiming to provide intuition about how this deviation is
+related to various system features, such as energy gap or gaplessness,
+inhomogeneity due to trapping potentials, and presence of phase
+transitions.
+
+
+<p>
+References: 
+
+<p>
+
+[a]  &nbsp;   M. Haque and  F.E. Zimmer;
+&nbsp;&nbsp;  
+<A href= "http://pra.aps.org/abstract/PRA/v87/i3/e033613">
+ Phys. Rev. A 87, 033613 (2013) </A>
+<br>
+Title: `Slow interaction ramps in trapped many-particle systems: universal deviations
+        from adiabaticity.'
+
+<p>
+
+
+[b] &nbsp;  
+T. Venumadhav, M. Haque, and R. Moessner; 
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevB.81.054305">
+Phys. Rev. B 81, 054305 (2010). </A>
+<br>
+Title: `Finite-rate quenches of site bias in the Bose-Hubbard dimer.'
+<p>
+
+[c] &nbsp;   B. Dor&aacute;, M. Haque, and G. Zar&aacute;nd;
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevLett.106.156406">
+ Phys. Rev. Lett. 106, 156406 (2011). </A>
+<br>
+Title: ` Crossover from adiabatic to sudden interaction quench in a Luttinger liquid.'
+<p>
+
+[d]  &nbsp;   F.E. Zimmer and M. Haque;
+&nbsp;&nbsp;  
+<A href= "http://arxiv.org/abs/1012.4492">
+arXiv:1012.4492. </A>
+<br>
+Title: `Non-adiabatic interaction ramps in a trapped Bose condensate.'
+
+<p>
+
+
+[e]  &nbsp;  M. Haque and H.T.C. Stoof;
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.71.063603">
+Phys. Rev. A 71, 063603 (2005). </A>
+<br>
+Title: `Dynamics of a molecular Bose-Einstein condensate near a Feshbach resonance.'
+
+<p>
+
+
+
+
+
+<hr><br>
+<h3><font color=brown>  <A NAME="topic04">   &sect; &nbsp;  
+Entanglement and topological order in quantum Hall states </font></h3>
+
+
+Fractional quantum Hall states possess an unconventional
+ordering known as `topological order', characterized by
+fractionalized excitations and extra ground-state
+degeneracies depending on the topology of the space.  Given
+the difficulty of describing topological order using the
+standard methods of condensed matter physics, newly
+discovered connections between topological order and
+entanglement measures are of significant interest.  Recent
+and ongoing work has explored the use of entanglement
+entropy calculations in fractional quantum Hall states, with
+the aim of developing entanglement calculations as a tool
+for addressing physical questions concerning quantum Hall
+states.
+
+<p>
+References: 
+
+<p>
+
+[a]  &nbsp;  M. Haque, O. Zozulya, and K. Schoutens; 
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevLett.98.060401">
+Phys. Rev. Lett. 98, 060401 (2007). </A>
+<br>
+<I> Entanglement entropy of fermionic Laughlin states. </I>
+<p>
+
+[b] &nbsp;   O. Zozulya, M. Haque, K. Schoutens, and E. H. Rezayi; 
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevB.76.125310">
+Phys. Rev. B 76, 125310 (2007).  </A>
+<br>
+<I> Bipartite entanglement entropy in fractional quantum
+        Hall states. </I>
+<p>
+
+[c] &nbsp;   O. Zozulya, M. Haque and N. Regnault;  
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevB.79.045409">
+Phys. Rev. B 79, 045409 (2009). </A>
+<br>
+<I> Entanglement signatures of Quantum Hall phase transitions. </I>
+
+<p>
+
+[d]  &nbsp;  A. M. Laeuchli, E. J. Bergholtz, J. Suorsa, and M. Haque;  
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevLett.104.156404">
+Phys. Rev. Lett. 104, 156404 (2010). </A>
+<br>
+<I> Disentangling Entanglement Spectra of Fractional Quantum Hall
+        States on Torus Geometries. </I>
+
+<p>
+
+
+[e] &nbsp;   A. M. Laeuchli, E. J. Bergholtz, and M. Haque;  
+&nbsp;&nbsp;  
+<A href= "http://iopscience.iop.org/1367-2630/12/7/075004/">
+ New Journal of Physics, 12, 075004 (2010). </A>
+<br>
+<I> Entanglement Scaling of Fractional Quantum Hall states through
+Geometric Deformations. </I>
+<br>
+Also available as 
+<A href= "http://arxiv.org/abs/1003.5656">
+arXiv:1003.5656. </A>
+
+<p>
+
+
+
+
+<hr><br>
+<h3><font color=brown> <A NAME="topic03"> &sect; &nbsp; 
+Edge-localized states in 1D quantum lattices </font> </h3>
+
+
+
+<p> In one-dimensional quantum lattice models with open boundaries,
+examining few-particle dynamics led me to an edge-induced self-similar
+(`fractal') structure high up in the energy specturm, and associated
+out-of-equilibrium consequences.
+
+<p>The non-equilibrium consequences are a hierarchy of `edge-locking'
+or edge-localization effects.  This is a <I>collective</I> rather than
+a single-particle effect, requiring at least three fermions or three
+bosons.  
+
+<p> Till now, I found and examined versions of the phenomenon in
+three classic condensed-matter models:  &nbsp; (1) the Bose-Hubbard
+model;  &nbsp; (2) the spinless fermion model with nearest-neighbor
+repulsion;   &nbsp; (3) the <I>XXZ</I> spin chain.
+
+
+
+<p>
+References:  
+
+<P> [a] &nbsp;   R. Pinto, M. Haque, S. Flach;
+&nbsp;&nbsp;
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.79.052118">
+ Phys. Rev. A  79, 052118 (2009). </A> 
+<br>
+<I> Edge-localized states in quantum one-dimensional lattices. </I>
+
+<P> [b]  &nbsp;   M. Haque;
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.82.012108">
+ Phys. Rev. A 82, 012108 (2010). </A>
+<br>
+<I> Self-similar spectral structures and edge-locking hierarchy in open-boundary spin chains. </I>
+
+
+
+<hr><br>
+
+<h3><font color=brown>  <A NAME="topic02">   &sect; &nbsp; 
+Few-vortex dynamics in Bose condensates </font> </h3>
+
+
+<p>
+The nonlinear Schroedinger equation (Gross-Pitaevskii
+equation), describing mean-field dynamics of Bose-Einstein
+condensates, possesses a remarkable range of rich dynamical
+phenomena.  We are exploring the dynamics of condensates
+with a few vortices.  For example, a vortex-antivortex pair
+(vortex dipole) in a trapped condensate displays stationary
+configurations and characteristic trajectories due to the
+interplay between mutually driven and inhomogeneity-driven
+motion.
+
+
+<p>
+References: 
+
+<p>[a] &nbsp;   W. Li, M. Haque and S. Komineas; 
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.77.053610">
+Phys. Rev. A 77, 053610 (2008).  </A>
+<br>
+<I> A vortex dipole in a trapped two-dimensional Bose
+condensate. </I>
+
+<p> [b]  &nbsp;  J. A. Seman, E. A. L. Henn, M. Haque, R. F. Shiozaki, E. R. F. Ramos,
+M. Caracanhas, P. Castilho, C. Castelo Branco, P. E. S. Tavares,
+F. J. Poveda Cuevas, G. Roati, K. Magalhaes, and V. S. Bagnato;
+&nbsp;&nbsp; 
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.82.033616">
+Phys. Rev. A, 82, 033616 (2010). </A> 
+<br>
+<I> Three-vortex configurations in trapped Bose-Einstein condensates. </I>
+
+
+
+
+
+<hr><br>
+<h3><font color=brown>  <A NAME="topic01">   &sect; &nbsp;  
+Entanglement between unusual partitionings of many-particle systems 
+</font> </h3>
+
+
+<p>
+
+The standard usage of entanglement estimators in condensed
+matter theory is through the entanglement between a
+spatially connected block and the rest of the system.
+Clearly, it is possible to ask about the entanglement
+between other kinds of partitions of a many-particle state.
+Our work demonstrates that several alternate types of
+partitionings can be fruitful and instructive for
+characterizing correlations in many-particle states.
+
+<p>
+References: 
+
+<p>
+[a]  &nbsp;   O. Zozulya, M. Haque, and K. Schoutens;  &nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.78.042326">
+Phys. Rev. A 78, 042326 (2008). </A>
+<br>
+<I> Particle partitioning entanglement in itinerant
+         many-particle systems. </I>
+
+<p>
+[b]  &nbsp;  M. Haque, J.N. Bandyopadhyay and V. Ravi Chandra;
+&nbsp;&nbsp;  
+<A href= "http://link.aps.org/doi/10.1103/PhysRevA.79.042317">
+Phys. Rev. A 79, 042317 (2009).</A>
+<br>
+<I> Entanglement and level crossings in finite
+        frustrated ferromagnetic chains. </I>
+
+
+<p>
+  [c]  &nbsp;   <FONT COLOR=green> (Review Article) </FONT> M. Haque,
+  O. Zozulya, and K. Schoutens;  
+&nbsp;&nbsp;  
+<A href= "http://iopscience.iop.org/1751-8121/42/50/504012/">
+J. Phys. A: Math. Theor. 42, 504012 (2009). </A>
+<br>
+<I>Entanglement between particle partitions in itinerant many-particle
+states. </I>
+
+<br> Also available as <A href= "http://arxiv.org/abs/0905.4024">
+arXiv:0905.4024 </A> 
+
+
+
+<HR>
+<HR>
+
+
+<ADDRESS>
+Personal home page: Masud Haque. 
+
+<p>Email (replace ATT by @ and remove spaces):
+<FONT COLOR=BLUE> haque ATT pks.mpg.de </FONT> 
+</ADDRESS> 
+
+
+</BODY>
+
+</HTML>
+
+
+
+
+
